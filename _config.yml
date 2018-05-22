@@ -10,7 +10,9 @@ title: Estudio Ruiz
 email: info@estudioruiz.co
 description: > # this means to ignore newlines until "baseurl:"
   Ruiz, estudio de diseño establecido en Santiago de Chile por los diseñadores Jordi Casanueva y Pablo Serrano. Actualmente en Ruiz nos enfocamos en branding, diseño digital y dirección de arte, participando tanto de proyectos culturales como comerciales.
-  Design studio based in Santiago de Chile by the designers Jordi Casanueva and Pablo Serrano. Currently in Ruiz we focus in branding, digital design and art direction, engaging in both cultural and commercial projects.
+  <br>
+  <br>
+  <span class="eng">Design studio based in Santiago de Chile by the designers Jordi Casanueva and Pablo Serrano. Currently in Ruiz we focus in branding, digital design and art direction, engaging in both cultural and commercial projects.</span>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://estudioruiz.co" # the base hostname & protocol for your site
 instagram_username: estudio_ruiz
