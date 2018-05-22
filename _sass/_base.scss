@@ -204,3 +204,12 @@ pre {
         }
     }
 }
+
+.icon--ruiz {
+    display: inline-block;
+    width:30px;
+    vertical-align: middle;
+        path {
+            fill: $grey-color;
+        }
+}
