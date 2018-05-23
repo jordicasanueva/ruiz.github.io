@@ -202,7 +202,7 @@
 #mc_embed_signup input.email {
     width: auto !important;
     border: solid 1px #2100ad !important;
-    @media only screen and (min-width: 768px) {
+    @media only screen and (max-width: 768px) {
     width: 100% !important;
     }
 }
