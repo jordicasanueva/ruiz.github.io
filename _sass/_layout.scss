@@ -197,8 +197,11 @@
 
 #mc_embed_signup input.email {
     width: auto !important;
-    background-color: #2100ad !important;
     border: #2100ad !important;
+}
+
+#mc_embed_signup .button {
+    background-color: #2100ad !important;
 }
 
 #mc_embed_signup label {
